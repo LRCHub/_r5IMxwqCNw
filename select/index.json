@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "アルカテイル",
+  "base_artist": "鈴木このみ、VISUAL ARTS / Key",
+  "createdAt": "2025-12-01T08:08:01.955574Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アルカテイル",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/01_アルカテイル_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アルカテイル",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/02_アルカテイル_鈴木このみ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アルカテイル",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/03_アルカテイル_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アルカテイル (Game Size)",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/04_アルカテイル_(Game_Size)_鈴木このみ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アルカテイル",
+      "artist": "鈴木",
+      "has_synced": false,
+      "path": "select/pl_01_アルカテイル_鈴木.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "アルカテイル",
+      "artist": "鈴木",
+      "has_synced": false,
+      "path": "select/pl_02_アルカテイル_鈴木.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "アルカテイル",
+      "artist": "鈴木",
+      "has_synced": false,
+      "path": "select/pl_03_アルカテイル_鈴木.txt"
+    }
+  ]
+}
